@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "698548462563",
+    "firebase_url": "https://test1-1cd94.firebaseio.com",
+    "project_id": "test1-1cd94",
+    "storage_bucket": "test1-1cd94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698548462563:android:137bc81d02663787",
+        "android_client_info": {
+          "package_name": "com.example.viper.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698548462563-svj4l74v2h8sl3t2d9cjlb2rug53i0vs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtGRXGxlealnU10Kgur3LwHG0eokrslhM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
